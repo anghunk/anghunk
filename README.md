@@ -7,6 +7,7 @@
 - 💡 热爱前端开发，专注于 JavaScript 及相关技术栈
 - 🛠️ 技能专长：JavaScript、前端工程化、用户脚本开发
 - 📦 正在开发的项目
+  - [IPFS Publisher - IPFS 发布器](https://github.com/anghunk/IPFS-Publisher)
   - [Clipper Hub - 万能剪藏](https://github.com/anghunk/clipper-hub)
   - [LinuxDo Scripts](https://github.com/anghunk/linuxdo-scripts)
 - 🌱 立志深耕前端领域，持续学习与分享
@@ -25,3 +26,4 @@
 ![anghunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=anghunk&show_icons=true&theme=radical)
 
 如果喜欢我的开源项目，可以赞助 [一杯咖啡~](Sponsor.md)
+
