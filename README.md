@@ -15,13 +15,13 @@
 
 ---
 
-📬 **联系我：**  
+📬 **Contact me**  
 - 博客：[https://zishu.me](https://zishu.me)  
 - 邮箱：anghunk@gmail.com
 
 ---
 
-✍️ **Blog posts**
+✍️ **Latest Blogs**
 <!-- BLOG-POST-LIST:START -->
 - [我的 2025 年度总结](https://zishu.me/blog/2025-summary.html)
 - [如何导出 GitHub Discussions / Giscus 数据](https://zishu.me/blog/export-gitHub-discussions-giscus-data.html)
@@ -37,5 +37,6 @@
 ![anghunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=anghunk&show_icons=true&theme=radical)
 
 如果喜欢我的开源项目，可以赞助 [一杯咖啡~](Sponsor.md)
+
 
 
