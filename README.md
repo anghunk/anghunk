@@ -1,11 +1,4 @@
-```
-                    _                 _    
-   __ _ _ __   __ _| |__  _   _ _ __ | | __
-  / _` | '_ \ / _` | '_ \| | | | '_ \| |/ /
- | (_| | | | | (_| | | | | |_| | | | |   < 
-  \__,_|_| |_|\__, |_| |_|\__,_|_| |_|_|\_\
-              |___/                        
-```
+
 
 # Hi there, I'm anghunk 👋
 
@@ -42,11 +35,9 @@
 ---
 
 > 生活不止代码，还有诗和远方。
+> 
+![anghunk's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anghunk&theme=solarized)
 
-![anghunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=anghunk&show_icons=true&theme=radical)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anghunk&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true)
 
 如果喜欢我的开源项目，可以赞助 [一杯咖啡~](Sponsor.md)
-
-
-
-
