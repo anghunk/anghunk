@@ -9,6 +9,7 @@
 - 💡 热爱前端开发，专注于 JavaScript 及相关技术栈
 - 🛠️ 技能专长：JavaScript、前端工程化、用户脚本开发
 - 📦 正在开发的项目
+  - [ZRSS - 现代化 RSS 阅读器](https://github.com/anghunk/zrss)
   - [萤火 (Firefly) 笔记](https://github.com/anghunk/Firefly)
   - [CWD 评论系统](https://github.com/anghunk/cwd) 
   - [IPFS Publisher - IPFS 发布器](https://github.com/anghunk/IPFS-Publisher)
