@@ -32,7 +32,7 @@
 - [安卓APP通话记录与录音上传踩坑记录](https://zishu.me/blog/android-app-call-log-recording-upload-pitfalls.html)
 - [CWD：一个基于 Cloudflare Workers 的评论系统](https://zishu.me/blog/cwd-cloudflare-workers.html)
 - [我的 AI coding 方案](https://zishu.me/blog/my-ai-coding-setup.html)
-- [我的 2025 年度总结](https://zishu.me/blog/2025-summary.html)
+- [我在苏州的小事](https://zishu.me/blog/little-things-in-suzhou.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
