@@ -21,11 +21,11 @@
 
 ✍️ **Latest Blogs**
 <!-- BLOG-POST-LIST:START -->
+- [把 Trae 桌面端的模型接进任意 OpenAI 客户端](https://zishu.me/blog/trae-openai-proxy.html)
 - [Xcode 27 下 HBuilderX 运行 iOS 模拟器报错 `Unable to find application named &#39;Simulator&#39;` 的解决办法](https://zishu.me/blog/xcode27-hbuilderx-ios-error.html)
 - [DeekSeek Harness 初体验，非常有意思](https://zishu.me/blog/deekseek-harness-experience.html)
 - [我用一个 skill 把视觉活外包了](https://zishu.me/blog/skills-image-analysis-fallback.html)
 - [安卓APP通话记录与录音上传踩坑记录](https://zishu.me/blog/android-app-call-log-recording-upload-pitfalls.html)
-- [CWD：一个基于 CloudFlare Workers 的评论系统](https://zishu.me/blog/cwd-CloudFlare-workers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
