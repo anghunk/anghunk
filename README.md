@@ -21,11 +21,11 @@
 
 ✍️ **Latest Blogs**
 <!-- BLOG-POST-LIST:START -->
+- [我把视频字幕工具做进了浏览器里](https://zishu.me/blog/video-transcript.html)
 - [把 Trae 桌面端的模型接进任意 OpenAI 客户端（二）：做成本地大模型网关之后](https://zishu.me/blog/trae-openai-proxy-2.html)
 - [把 Trae 桌面端的模型接进任意 OpenAI 客户端（一）](https://zishu.me/blog/trae-openai-proxy.html)
 - [Xcode 27 下 HBuilderX 运行 iOS 模拟器报错 `Unable to find application named &#39;Simulator&#39;` 的解决办法](https://zishu.me/blog/xcode27-hbuilderx-ios-error.html)
 - [DeekSeek Harness 初体验，非常有意思](https://zishu.me/blog/deekseek-harness-experience.html)
-- [我用一个 skill 把视觉活外包了](https://zishu.me/blog/skills-image-analysis-fallback.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
