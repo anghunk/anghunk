@@ -2,20 +2,22 @@
 
 # Hi there, I'm anghunk 👋
 
-👨‍💻 **前端开发工程师** | JavaScript Enthusiast
+👨‍💻 **全栈开发** | Full stack development
 
 ---
 
-- 💡 热爱前端开发，专注于 JavaScript 及相关技术栈
-- 🛠️ 技能专长：JavaScript、前端工程化、用户脚本开发
-- 🌱 立志深耕前端领域，持续学习与分享
-- 🌏 热爱生活，喜欢旅行、骑行、拍摄和厨艺
+- 💡 ~~热爱前端开发，专注于 JavaScript 及相关技术栈~~ == 热爱全栈开发，前端、后端、客户端、APP... 
+- 🛠️ ~~技能专长：JavaScript、前端工程化、用户脚本开发~~ == GPT...
+- 🌱 持续学习与分享
+- 🌏 热爱生活，喜欢旅行、拍摄和厨艺，以及写作...
 
 ---
 
 📬 **Contact me**  
 - 博客：[https://zishu.me](https://zishu.me)  
 - 邮箱：anghunk@gmail.com
+
+欢迎和我交流相关话题，我基本全天在线。
 
 ---
 
